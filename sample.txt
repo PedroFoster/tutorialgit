@@ -1,2 +1,2 @@
 I'm testing git
-add: second line
+add: third mod
